@@ -1,2 +1,2 @@
 # hello-world
-Meu primeiro repositório. Responsável por armazenar e-books, artigos e outros arquivos interessantes
+Área responsável por armazenar e-books, artigos e outros arquivos interessantes
